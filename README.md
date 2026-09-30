@@ -21,7 +21,7 @@ The main sections of work.
 
 ## Screenshots
 
-![Description of the image](screenshots/practice-shot.png)
+![Description of the image](screenshots/practice.png)
 
 ## Security Lessons Learned
 
