@@ -1,6 +1,3 @@
-# My IAM Lab Practice
-This repo is where I practise before doing the real labs
-
 # Project Title
 
 ## Project Overview
