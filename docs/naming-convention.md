@@ -1,1 +1,3 @@
+Northwind Services will use the user principal name (UPN) pattern firstname.lastname@<tenant>.onmicrosoft.com for all 15 users. For example, a user named John Smith will have the UPN john.smith@northwindservices.onmicrosoft.com. The same pattern will be used consistently for employees and contractors, with a documented variation only when duplicate names require it.
 
+This convention provides a predictable and consistent identity format across the tenant. Using the user's first and last name makes accounts easy to identify, while keeping one standard for all users makes administration, troubleshooting, onboarding, and offboarding easier as Northwind Services grows.
